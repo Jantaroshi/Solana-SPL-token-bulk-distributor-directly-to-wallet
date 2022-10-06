@@ -1,6 +1,9 @@
+#Solana SPL token bulk distributor directly to wallet
+
+
 Super simple tool to distribute SPL tokens on Solana.
 
-Distribute easily, quickly and cheaply directly to addresses.
+Distribute easily, quickly and cheaply directly to addresses in your list.
 
 
 Tested on devnet and mainnet.
