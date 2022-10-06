@@ -122,9 +122,11 @@ If this was used to airdrop token to whitelisted addresses, make sure to add cor
 If this was useful to you, you can send donation, NFT or your token to our community wallet
 DdTMFWstpAdQcWv3qBWEJrJBjqpkziz9dchs87U2661e
 
-Or try our tool (profits go to our community wallet)
+Or try solana fee redeemer tool (donations go to our community wallet)
 https://solanafeeredeemer.com/
 
 Community wallet belongs to Solana NFT project- R.U.R. World (https://twitter.com/RURWorld ; https://rur.world/links)
+
 NFTs full of utility (https://info.rur.world/)
+
 Our holders receive cut from community wallet and can have custom NFT collection (on Solana, Ethereum, Polygon, Fantom or Avax) with us helping them with marketing, generate, deploy collection, distribute whitelist and build mint web, FREE of initital investment charges (only for % from royalties and mint funds to our community wallet)
