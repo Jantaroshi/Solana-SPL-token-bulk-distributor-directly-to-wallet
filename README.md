@@ -1,9 +1,12 @@
 Super simple tool to distribute SPL tokens on Solana.
+
 Distribute easily, quickly and cheaply directly to addresses.
+
 
 Tested on devnet and mainnet.
 But still use at your own risk!
 Check transactions before reattempting.
+
 
 
 
@@ -13,28 +16,38 @@ Check transactions before reattempting.
 cargo install spl-token-cli
 ```
 
+
 ### Python
 https://python.org/
 
 
 
+
 # Setting up environment
+
 ```bash
 solana config set --url https://api.devnet.solana.com
 ```
+
 OR
+
 ```bash
 solana config set --url https://api.mainnet-beta.solana.com
 ```
+
 OR (the best)
+
 ```bash
 solana config set --url CUSTOM RPC
 ```
+
+
 ### Setting up wallet
 ```bash
 solana-keygen new --outfile ~/.config/solana/wallet.json
 ```
 You will get wallet address and seed
+
 Be sure to save this to some safe place
 
 ### Set keypair
@@ -42,18 +55,22 @@ Be sure to save this to some safe place
 solana config set --keypair ~/.config/solana/wallet.json
 ```
 
+
 ### Now check everything is set correctly
 ```bash
 solana config get
 ```
+
 
 ### If on devnet
 ```bash
 solana airdrop 1
 ```
 
+
 ### If on mainnet
 Funds wallet with mainnet solana
+
 
 ### Check funds on keypair wallet
 ```bash
@@ -61,6 +78,7 @@ solana balance
 ```
 ## Important
 Each address airdrop will cost approx 0.0021 Sol, so make sure to fund your wallet properly!
+
 
 
 
@@ -76,17 +94,24 @@ spl-token mint "token address here without ("") special characters" 1000
 ```
 
 
+
 # Airdrop to addresses
+
 
 Add addresses to airdrop.txt, 1 line = 1 address, no commas, no "".
 
+
 Open airdrop.py and edit line number 5, add your token address and number of tokens each address shall receive.
+
 
 Open terminal and run
 ```bash
 python airdrop.py
 ```
 
+
+
+# Final things
 Now you can enjoy success.
 If this was used to airdrop token to whitelisted addresses, make sure to add corect data to config in metaplex.
 
