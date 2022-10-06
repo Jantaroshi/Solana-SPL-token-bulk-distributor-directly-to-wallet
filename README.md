@@ -4,7 +4,9 @@ Distribute easily, quickly and cheaply directly to addresses.
 
 
 Tested on devnet and mainnet.
+
 But still use at your own risk!
+
 Check transactions before reattempting.
 
 
