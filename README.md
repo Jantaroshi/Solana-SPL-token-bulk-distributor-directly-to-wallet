@@ -1,4 +1,4 @@
-#Solana SPL token bulk distributor directly to wallet
+# Solana SPL token bulk distributor directly to wallet
 
 
 Super simple tool to distribute SPL tokens on Solana.
