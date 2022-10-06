@@ -11,7 +11,6 @@ Check transactions before reattempting.
 
 
 
-
 # Installation and prequisities
 ### Spl token cli
 ```bash
