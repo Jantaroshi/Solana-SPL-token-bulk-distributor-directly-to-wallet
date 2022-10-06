@@ -46,7 +46,7 @@ solana config set --url CUSTOM RPC
 
 ### Setting up wallet
 ```bash
-solana-keygen new --outfile ~/.config/solana/wallet.json
+solana-keygen new --outfile ~/config/solana/wallet.json
 ```
 You will get wallet address and seed
 
@@ -54,7 +54,7 @@ Be sure to save this to some safe place
 
 ### Set keypair
 ```bash
-solana config set --keypair ~/.config/solana/wallet.json
+solana config set --keypair ~/config/solana/wallet.json
 ```
 
 
