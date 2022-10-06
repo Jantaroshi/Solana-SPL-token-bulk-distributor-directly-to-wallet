@@ -115,11 +115,13 @@ python airdrop.py
 
 # Final things
 Now you can enjoy success.
+
 If this was used to airdrop token to whitelisted addresses, make sure to add corect data to config in metaplex.
 
 
 If this was useful to you, you can send donation, NFT or your token to our community wallet
 DdTMFWstpAdQcWv3qBWEJrJBjqpkziz9dchs87U2661e
+
 Or try our tool (profits go to our community wallet)
 https://solanafeeredeemer.com/
 
