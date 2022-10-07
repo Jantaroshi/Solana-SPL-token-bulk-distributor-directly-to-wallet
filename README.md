@@ -3,6 +3,8 @@
 
 Super simple tool to distribute SPL tokens on Solana.
 
+For example token that is used for whitelist in metaplex sugar and candy machine.
+
 Distribute easily, quickly and cheaply directly to addresses in your list.
 
 
